@@ -14,7 +14,7 @@ Explanation:
 The largest element of given array is 90.
 ```
 
-**  Example 2:**
+**Example 2:**
 
 ```
 Input:
