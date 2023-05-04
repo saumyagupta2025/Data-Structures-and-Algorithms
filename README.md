@@ -1,4 +1,4 @@
-# Data Structures & Algorithm
+# Data Structures & Algorithms
 
 Welcome to my Github repository containing solutions to the LeetCode and GFG problems I have solved during the #100DaysOfCode challenge! This repository contains solutions written in Java programming language. Each solution includes a problem description, and the code implementation. 
 
